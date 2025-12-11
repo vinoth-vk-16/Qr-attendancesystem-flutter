@@ -379,24 +379,7 @@ Firestore Collections:
 4. Student hasn't already scanned this session
 5. Session is currently active
 
----
 
-## 📸 Screenshots
-
-<div align="center">
-
-*Screenshots will be added here showing:*
-- Login Screen
-- Home Dashboard
-- QR Code Generator
-- QR Scanner Interface
-- Session Management
-- User Management
-- Attendance Records
-
-*To add screenshots: Drag and drop images directly into this README on GitHub*
-
-</div>
 
 ---
 
