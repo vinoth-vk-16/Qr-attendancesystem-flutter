@@ -1,6 +1,7 @@
 <div align="center">
 
 # 📱 QR Attendance System
+### *qr_code_generator*
 
 ### *Smart, Secure, and Seamless Attendance Management*
 
@@ -75,8 +76,8 @@
 
 | Category | Technology |
 |----------|-----------|
-| **Framework** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) Flutter 3.5.1+ |
-| **Language** | ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) Dart SDK 3.5.1+ |
+| **Framework** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) Flutter 3.5.1 |
+| **Language** | ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) Dart SDK 3.5.1 |
 | **Backend** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) Firebase Suite |
 | **Database** | ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black) Cloud Firestore |
 | **Authentication** | ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?logo=firebase&logoColor=black) Firebase Authentication |
@@ -86,15 +87,19 @@
 
 ```yaml
 dependencies:
-  flutter: sdk: flutter
+  flutter:
+    sdk: flutter
   firebase_core: ^3.6.0           # Firebase initialization
   cloud_firestore: ^5.4.4         # NoSQL cloud database
   firebase_auth: ^5.3.1           # User authentication
+  firebase_database: ^11.0.4      # Firebase Realtime Database
   qr_flutter: ^4.0.0              # QR code generation
   mobile_scanner: ^5.2.3          # QR code scanning
   local_auth: ^2.3.0              # Biometric authentication
   device_info_plus: ^9.0.0        # Device information
+  url_launcher: ^6.3.0            # URL launching capability
   intl: ^0.17.0                   # Internationalization
+  cupertino_icons: ^1.0.8         # iOS style icons
 ```
 
 ---
