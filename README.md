@@ -437,7 +437,7 @@ This project is **private** and not currently licensed for public use. Please co
 
 If you encounter any issues or have questions:
 
-- 📧 **Email:** Contact repository owner
+- 📧 **Email:** imvinothvk521@gmail.com
 - 🐛 **Issues:** [Open an issue](https://github.com/vinoth-vk-16/Qr-attendancesystem-flutter/issues)
 - 💡 **Discussions:** [Start a discussion](https://github.com/vinoth-vk-16/Qr-attendancesystem-flutter/discussions)
 
