@@ -26,7 +26,6 @@
 - [🚀 Usage](#-usage)
 - [📁 Project Structure](#-project-structure)
 - [🔐 Authentication](#-authentication)
-- [📸 Screenshots](#-screenshots)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [💬 Support](#-support)
