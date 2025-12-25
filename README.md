@@ -40,7 +40,7 @@
 ### 🎯 Attendance Management
 - **Dynamic QR Code Generation** - Automatically generates time-sensitive QR codes for each session
 - **QR Code Scanning** - Students scan QR codes to mark attendance with mobile scanner integration
-- **Real-time Validation** - QR codes expire after 20 seconds to prevent fraudulent attendance
+- **Real-time Validation** - QR codes expire after x seconds to prevent fraudulent attendance (x set by admin).
 - **Duplicate Prevention** - System prevents students from scanning the same session multiple times
 
 ### 👥 User Management
